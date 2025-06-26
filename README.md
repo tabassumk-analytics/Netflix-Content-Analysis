@@ -41,7 +41,7 @@ Insight: Words like 'life', 'family', and 'love' frequently appear in show descr
 We built a logistic regression model to predict whether a title is a Movie or TV Show based on features like rating, listed_in, and duration_int. The model achieved ~99.8% accuracy.
 
 
-[![Netflix Content Type](netflix_content_type.png)](netflix_content_type.png)  
+[![Netflix Content Type](netflix_content_type.png)](charts/netflix_content_type.png)  
 [![Top Netflix Genres](netflix_top_genres.png)](netflix_top_genres.png)  
 [![Netflix Rating Distribution](netflix_Rating_distribution.png)](netflix_Rating_distribution.png)  
 [![Netflix Movie Durations](netflix_movie_durations.png)](netflix_movie_durations.png)  
