@@ -42,11 +42,11 @@ We built a logistic regression model to predict whether a title is a Movie or TV
 
 
 [![Netflix Content Type](charts/netflix_content_type.png)](charts/netflix_content_type.png)  
-[![Top Netflix Genres](netflix_top_genres.png)](netflix_top_genres.png)  
-[![Netflix Rating Distribution](netflix_Rating_distribution.png)](netflix_Rating_distribution.png)  
-[![Netflix Movie Durations](netflix_movie_durations.png)](netflix_movie_durations.png)  
-[![Netflix TV Show Seasons](netflix_tv_show_seasons.png)](netflix_tv_show_seasons.png)  
-[![Netflix Description Wordcloud](netflix_description_wordcloud.png)](netflix_description_wordcloud.png)  
+[![Top Netflix Genres](charts/netflix_top_genres.png)](netflix_top_genres.png)  
+[![Netflix Rating Distribution](charts/netflix_Rating_distribution.png)](netflix_Rating_distribution.png)  
+[![Netflix Movie Durations](charts/netflix_movie_durations.png)](netflix_movie_durations.png)  
+[![Netflix TV Show Seasons](charts/netflix_tv_show_seasons.png)](netflix_tv_show_seasons.png)  
+[![Netflix Description Wordcloud](charts/netflix_description_wordcloud.png)](netflix_description_wordcloud.png)  
 
 
 **Cross-Platform Comparison**
@@ -81,13 +81,13 @@ Netflix leads with mature content (TV-MA), while Disney+ consistently avoids hig
 Focussed on the top 10 rating categories across platforms.
 When cleaned to show only the top ratings, Netflix and Hulu still lead in adult-rated titles. Disney+ remains strictly child and family-safe.
 
-[![Platform Title Counts](platform_title_counts.png)](platform_title_counts.png)  
-[![Top Genres All Platforms](top_genres_all_Platforms.png)](top_genres_all_Platforms.png)  
-[![Platform Content Type Distribution](platform_content_type_distribution.png)](platform_content_type_distribution.png)  
-[![Release Year Trend](release_year_trend.png)](release_year_trend.png)  
-[![Raw Rating Distribution](Platform_rating_destriubtion.png)](Platform_rating_destriubtion.png)  
-[![Top 10 Rating Categories](Platform_rating_distribution_top10.png)](Platform_rating_distribution_top10.png)  
-[![Platform Genre Comparison](platform_genre_comparison.png)](platform_genre_comparison.png)
+[![Platform Title Counts](charts/platform_title_counts.png)](platform_title_counts.png)  
+[![Top Genres All Platforms](charts/top_genres_all_Platforms.png)](top_genres_all_Platforms.png)  
+[![Platform Content Type Distribution](charts/platform_content_type_distribution.png)](platform_content_type_distribution.png)  
+[![Release Year Trend](charts/release_year_trend.png)](release_year_trend.png)  
+[![Raw Rating Distribution](charts/Platform_rating_destriubtion.png)](Platform_rating_destriubtion.png)  
+[![Top 10 Rating Categories](charts/Platform_rating_distribution_top10.png)](Platform_rating_distribution_top10.png)  
+[![Platform Genre Comparison](charts/platform_genre_comparison.png)](platform_genre_comparison.png)
 
 
 **Overall Business Insights**
