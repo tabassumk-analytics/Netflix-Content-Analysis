@@ -85,7 +85,6 @@ When cleaned to show only the top ratings, Netflix and Hulu still lead in adult-
 [![Top Genres All Platforms](charts/top_genres_all_Platforms.png)](top_genres_all_Platforms.png)  
 [![Platform Content Type Distribution](charts/platform_content_type_distribution.png)](platform_content_type_distribution.png)  
 [![Release Year Trend](charts/release_year_trend.png)](release_year_trend.png)  
-[![Raw Rating Distribution](charts/Platform_rating_destriubtion.png)](Platform_rating_destriubtion.png)  
 [![Top 10 Rating Categories](charts/Platform_rating_distribution_top10.png)](Platform_rating_distribution_top10.png)  
 [![Platform Genre Comparison](charts/platform_genre_comparison.png)](platform_genre_comparison.png)
 
