@@ -48,8 +48,7 @@ We built a logistic regression model to predict whether a title is a Movie or TV
 [![Netflix TV Show Seasons](charts/netflix_tv_show_seasons.png)](netflix_tv_show_seasons.png)  
 [![Netflix Description Wordcloud](charts/netflix_description_wordcloud.png)](netflix_description_wordcloud.png)  
 
-
-**Cross-Platform Comparison**
+**Competative Comparison**
 
 2.1 – Content Volums
 
