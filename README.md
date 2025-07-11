@@ -8,8 +8,8 @@ With the explosion of streaming services, each platform competes to capture audi
 
 Used publicly available CSV files from Kaggle representing four major streaming platforms: Netflix, Amazon Prime, Hulu, and Disney+. Each dataset contained metadata for movies and TV shows including title, genre, release year, rating, and platform origin.
 
-*Total Records-fter merging ~23,000 titles across all platforms
-*Tools Used-Python, Pandas,Matplotlib & Seaborn,WordCloud,Scikit-learn and Jupyter Notebook.
+Total Records-after merging ~23,000 titles across all platforms
+Tools Used-Python, Pandas,Matplotlib & Seaborn,WordCloud,Scikit-learn and Jupyter Notebook.
 
 **Netflix Analysis**
 
